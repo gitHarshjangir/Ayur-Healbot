@@ -8,7 +8,6 @@ Installation
 Usage
 Dependencies
 Contributing
-License
 Features
 Symptom Diagnosis: Ayur Healbot utilizes AI algorithms to analyze input symptoms and provide accurate diagnosis suggestions.
 
